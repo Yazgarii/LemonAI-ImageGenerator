@@ -1,4 +1,4 @@
-const apiKey = "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";
+const apiKey = "Kişisel API_KEY";
 
 const maxImages = 4;
 let selectedImageNumber = null;
