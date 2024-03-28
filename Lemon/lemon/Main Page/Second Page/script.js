@@ -1,6 +1,6 @@
 const apiKey = "Kişisel API_KEY";
 
-const maxImages = 4;
+const maxImages = 8;
 let selectedImageNumber = null;
 
 function getRandomNumber(min, max) {
